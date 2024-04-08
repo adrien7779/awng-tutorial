@@ -1,0 +1,113 @@
+[33mcommit 3788a7112111e80b3d2dfba8a6d9a0e55c1ff476[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VENOT-MARCO Adrien angel <a.venot-marco@pcb61-08-15.isae.fr>
+Date:   Mon Apr 8 15:43:13 2024 +0200
+
+    Created Polls App, linked the urls... working
+
+[33mcommit 7c256c01ac91f620f98efa1be20bff3abc5fba02[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Tue Mar 12 12:16:01 2024 +0100
+
+    Explicitly point to 4.2 LTS
+
+[33mcommit 2c8b39d28b86ceb5f741696ce72e144f96ac1daf[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Tue Mar 28 16:06:13 2023 +0200
+
+    Move instructions from LMS to README
+
+[33mcommit ce6fee4af31c396cb645ec32dc6d933a0de0e4a1[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Thu Mar 23 15:36:34 2023 +0100
+
+    Promote use of Git and branching
+
+[33mcommit e74e858776ed2e302075f0387687aedbe174045c[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Thu Mar 23 11:46:18 2023 +0100
+
+    Expand pip install part with djlint
+    
+    djlint is used by VS Code recommended Python extension for Django code
+
+[33mcommit 848567809de0f6d8f8cb429d98884b953e80442f[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Tue Mar 14 15:30:01 2023 +0100
+
+    Indicate when to open VS Code
+
+[33mcommit 69bdd51cc4df020e1795da3b3e50a43b737f1b19[m
+Author: PERENNOU Tanguy <tanguy.perennou@isae.fr>
+Date:   Tue Mar 14 14:35:32 2023 +0100
+
+    Add reading instructions
+    
+    Django first app plus 3 extra pages
+
+[33mcommit 03df3bf3eec98e8b2ce8045a2a2534b763998f1e[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Thu Apr 7 21:48:22 2022 +0200
+
+    Have Issues enabled in the forked project
+
+[33mcommit f87a575b312b3cfd1c1c2805a1b640316bc80cce[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Sun Apr 3 22:18:28 2022 +0200
+
+    Update README for powershell vs GIt Bash
+
+[33mcommit 9cf72ca60fece9e4b12bc9c9a2c508ae97328b88[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Tue Mar 29 14:40:16 2022 +0200
+
+    State project naming rule
+    
+    This will help teachers to identify project authors.
+
+[33mcommit ffdef79cacd9e917aee157aa856c9358d8ca9f51[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Mon Mar 21 18:58:32 2022 +0100
+
+    More explicit instructions on fork/clone
+
+[33mcommit ea85d21bbbd46ba6da56d137dca9979f31eb0d5f[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 20:49:16 2022 +0100
+
+    Improved change of execution policy on windows
+
+[33mcommit eebfcf3b322bf1cbec2d551a18f865b45869983d[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 19:25:03 2022 +0100
+
+    Completed Windows and venv instructions
+
+[33mcommit df0fcb232be884af768df6ef90f8267f5017fe76[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 18:21:44 2022 +0100
+
+    Minor clarifications
+
+[33mcommit 7611ddd8acc69aa5e52a8babef6520f34aac802a[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 17:58:17 2022 +0100
+
+    Add instructions for teachers to access the code
+
+[33mcommit 5748caf92e2a0f4c5d53a36a7d07d46928f4f11c[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 17:36:57 2022 +0100
+
+    Initial README.md with usage instructions
+
+[33mcommit e0e27e7d86afbe42043f284970a074f97f727906[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 17:12:16 2022 +0100
+
+    Ignore .vscode/ directory content
+
+[33mcommit 3b26958f043423e94ac3df10e2b5e7101c7ce11e[m
+Author: Tanguy Pérennou <tanguy-perennou@users.noreply.github.com>
+Date:   Fri Mar 18 17:08:54 2022 +0100
+
+    Initial commit
